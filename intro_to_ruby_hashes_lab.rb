@@ -18,6 +18,7 @@ monopoly = {
     names: {},
     rent_in_dollars: {}  #2nd tier of the monopoly hash}
 }
+}
 end
 
 def monopoly_with_third_tier
@@ -34,6 +35,7 @@ def monopoly_with_third_tier
         three_pieces_owned: 100,
         four_pieces_owned: 200}  #2nd tier of the monopoly hash}
   }
+}
 end
 
 def monopoly_with_fourth_tier
